@@ -137,17 +137,3 @@ Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 2
 * Surat Dirjen Dukcapil kepada Kepala Disdukcapil Kota Tomohon Nomor 400.8.2.15/3670/Dukcapil Tgl 20 Maret 2024 Hal Penyampaian arahan atas permasalahan penerbitan dokumen kependudukan.
 
 </details>
-
-<details>
-
-<summary>Bagaimana cara melakukan pencatatan jenis pekerjaan PPPK pada Kartu Keluarga, mengingat bahwa saat ini belum ada kolom khusus untuk jenis pekerjaan PPPK pada formulir biodata keluarga F-1.01?</summary>
-
-Berdasarkan Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara, pada Pasal 1 disebutkan bahwa Aparatur Sipil Negara (ASN) adalah profesi bagi pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja (PPPK) yang bekerja pada instansi pemerintah.
-
-Sehubungan dengan ketentuan tersebut, dalam Lampiran Peraturan Menteri Dalam Negeri Nomor 6 Tahun 2026 tentang Perubahan atas Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019, pada Formulir Biodata Keluarga (F-1.01), khususnya kolom Jenis Pekerjaan, tercantum 108 (seratus delapan) jenis pekerjaan, dan jenis pekerjaan PPPK telah terakomodasi dalam kategori Aparatur Sipil Negara.
-
-**Sumber rujukan:**
-
-* Petunjuk pengisian Kartu Keluarga pada Peraturan Menteri Dalam Negeri Nomor 6 Tahun 2026 tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan dalam Administrasi Kependudukan.
-
-</details>
